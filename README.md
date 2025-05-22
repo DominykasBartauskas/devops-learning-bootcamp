@@ -6,7 +6,7 @@ This repository contains a structured 5-day learning plan designed to help you u
 
 ---
 
-## 📅 Day 1: Foundations & Setup
+## 📅 Day 1: Foundations & Setup ✅
 
 **Goal**: Understand the development workflow and set up your environment.
 
