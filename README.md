@@ -27,7 +27,7 @@ This repository contains a structured 5-day learning plan designed to help you u
 
 ---
 
-## 📅 Day 2: Docker Basics
+## 📅 Day 2: Docker Basics ⚠️ (waiting for Support ticket answer, stuck in an authentication loop)
 
 **Goal**: Learn containerization and Dockerfile creation.
 
